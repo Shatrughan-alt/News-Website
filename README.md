@@ -1,6 +1,8 @@
 # News-Website
 
 #Output
+https://shatrughan-alt.github.io/News-Website/
+On clicking this link you can see the website. 
 
 #
 This is the front logo of this news website which terminates within few seconds.
